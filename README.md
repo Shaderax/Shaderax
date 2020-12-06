@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi I'm Nathan, a Graphic Programmer from France.
+
+I’m currently working on a graphic engine with Vulkan in C++.
 
 <!--
 **Shaderax/Shaderax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
